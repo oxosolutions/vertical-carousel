@@ -4,7 +4,7 @@ Plugin Name: Vertical Carousel
 Plugin URI: http://oxosolutions.com/
 Description: Vertical Carousel
 Author: SGS Sandhu
-Version: 1.0
+Version: 1.2
 Author URI: http://sgssandhu.com/
 Text Domain: vertical-carousel
 */
